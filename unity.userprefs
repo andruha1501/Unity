@@ -1,9 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerMotor.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraMotor.cs">
     <Files>
-      <File FileName="Temp\ParsedCombinations-Skybox.shader" Line="1" Column="1" />
-      <File FileName="Assets\Scripts\CameraMotor.cs" Line="1" Column="1" />
+      <File FileName="Temp\ParsedCombinations-Normal-Diffuse.shader" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraMotor.cs" Line="23" Column="46" />
       <File FileName="Assets\Scripts\PlayerMotor.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
